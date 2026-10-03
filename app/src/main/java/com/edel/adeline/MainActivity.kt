@@ -21,7 +21,7 @@ class MainActivity : ComponentActivity() {
             AdelineTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
-                        name = "Android",
+                        name = "noniot",
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
